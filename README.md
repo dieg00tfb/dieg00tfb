@@ -1,3 +1,4 @@
+# Hi 👋 I'm Diego Arreola
 # 💫 About Me:
 - I am currently a second-year computer science student at Louisianan Tech University, passionate about exploring and expanding my knowledge in machine learning and building impactful applications that make a difference.<be>
 
