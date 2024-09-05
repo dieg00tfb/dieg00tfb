@@ -1,9 +1,11 @@
 # 💫 About Me:
 - I am currently a second-year computer science student at Louisianan Tech University, passionate about exploring and expanding my knowledge in machine learning and building impactful applications that make a difference.<be>
 
-#🚀What I am up to<br>Exploring Machine Learning using scikit-learn<br>Building an AI model for a hearing aid that automatically adjusts the volume based on the surrounding noise<be>
+# 🚀 What I am up to:
+- Exploring Machine Learning using scikit-learn<be>
+- Building an AI model for a hearing aid that automatically adjusts the volume based on the surrounding noise<be>
 
-#🌐 Connect with me<br>
+# 🌐 Connect with me:
 
 
 # 💻 Tech Stack:
