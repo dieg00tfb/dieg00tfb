@@ -14,6 +14,5 @@ Technologies/Frameworks: ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?s
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dieg00tfb&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
