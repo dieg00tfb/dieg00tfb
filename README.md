@@ -6,7 +6,7 @@
 - Exploring Machine Learning using scikit-learn<be>
 - Building an AI model for a hearing aid that automatically adjusts the volume based on the surrounding noise<be>
 
-# 🌐 Connect with me:
+
 
 
 # 💻 Tech Stack:
