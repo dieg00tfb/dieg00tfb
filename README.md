@@ -4,7 +4,7 @@
 
 # 🚀 What I am up to:
 - Exploring Machine Learning using scikit-learn<be>
-- Building an AI model for a hearing aid that automatically adjusts the volume based on the surrounding noise<be>
+- Studying and mastering data structures while consistently practicing problem-solving through LeetCode-style questions to improve algorithmic thinking, coding skills, and the ability to tackle technical interview challenges effectively.<be>
 
 
 
